@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614235530306",
+    "project_id": "musicbag-a78d7",
+    "storage_bucket": "musicbag-a78d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614235530306:android:3c8cade0e1da503e9af9db",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlaC8dQTcpKtIaL_mFj0XaONc6BIS_QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614235530306:android:f8cccd056f58a4a09af9db",
+        "android_client_info": {
+          "package_name": "com.example.my_sound_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlaC8dQTcpKtIaL_mFj0XaONc6BIS_QXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
